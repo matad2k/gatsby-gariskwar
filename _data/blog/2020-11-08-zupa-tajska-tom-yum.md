@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /tom-yum
+path: /blog/tom-yum
 date: 2020-11-08T13:44:20.170Z
 title: Zupa tajska - Tom Yum
 thumbnail: /assets/zupa_tajska.jpg
