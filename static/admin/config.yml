@@ -1,7 +1,7 @@
 backend:
-  name: matad2k/gatsby-gariskwar
+  name: gatsby-gariskwar
   # change repo to your git repository url
-  repo: matad2k/gatsby-gariskwar
+  repo: github.com/matad2k/gatsby-gariskwar/
 
 media_folder: static/assets
 public_folder: /assets
