@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /cynamonki
+path: /blog/cynamonki
 date: 2020-07-07T10:53:00.000Z
 title: Cynamonki
 thumbnail: /assets/cynamonki.jpg
