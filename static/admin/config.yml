@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: matad2k/gatsby-gariskwar
   # change repo to your git repository url
   repo: W3Layouts/gatsby-starter-delog
 
